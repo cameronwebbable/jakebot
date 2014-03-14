@@ -24,7 +24,7 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-irc": "~0.1.20",
     "hubot-reaction": "0.0.6",
-    "hubot-marta": "0.0.3"
+    "hubot-marta": "0.0.4"
   },
   "engines": {
     "node": ">= 0.8.x",
